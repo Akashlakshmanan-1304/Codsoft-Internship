@@ -29,11 +29,13 @@ Welcome to my CodSoft internship repository! This repository contains all the ta
 1. Compile the code using a C++ compiler:
     ```sh
     g++ Task1.cpp -o Task1
+      ```
     or
+   ```sh
     clang++ -o Task1 Task1.cpp
     ```
 
-2. Run the executable:
+3. Run the executable:
     ```sh
     ./Task1
     ```
